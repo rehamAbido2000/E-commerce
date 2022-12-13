@@ -1,0 +1,9 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.9",
+        "google/apiclient": "2.10",
+        "facebook/graph-sdk": "^5.7",
+        "league/omnipay": "^3.2",
+        "omnipay/paypal": "^3.0"
+    }
+}
